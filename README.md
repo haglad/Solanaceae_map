@@ -1,2 +1,3 @@
 # Solanaceae_map
-A map to the genera of the Solanaceae Family
+An interactive map to the genera of the Solanaceae Family
+Created using expowo, ggplot2, and plot_ly
